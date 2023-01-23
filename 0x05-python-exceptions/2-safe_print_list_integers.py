@@ -4,11 +4,11 @@ def safe_print_list_integers(my_list=[], x=0):
     """Print the first x elements of a list that are integers.
 
     Args: 
-    my_list (list): The list to print elements from.
-    x (print): The number of elements of my_list to print.
+        my_list (list): The list to print elements from.
+        x (print): The number of elements of my_list to print.
 
     Returns:
-    The number of elements printed.
+        The number of elements printed.
     """
     met = 0
     for i in range(0, x):
