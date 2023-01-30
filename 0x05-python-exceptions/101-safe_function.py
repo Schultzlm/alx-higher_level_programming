@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-from__future__ import print_function
+from __future__ import print_function
 import sys
 
 
